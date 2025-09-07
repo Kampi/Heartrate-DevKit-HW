@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/__w/Heartrate-DevKit-HW/Heartrate-DevKit-HW/devkit/ZSWatch-Heartrate-DevKit.kicad_sch</source>
-    <date>2025-09-07T08:23:45+0000</date>
+    <date>2025-09-07T20:04:57+0000</date>
     <tool>Eeschema 9.0.1+1</tool>
     <textvar name="ASSEMBLY_NOTES"/>
     <textvar name="BOARD_NAME">Heartrate-DevKit-HW</textvar>
     <textvar name="COMPANY">ZSWatch</textvar>
     <textvar name="DESIGNER">Daniel Kampert</textvar>
     <textvar name="FABRICATION_NOTES"/>
-    <textvar name="GIT_HASH_PCB">e7f6e1d</textvar>
+    <textvar name="GIT_HASH_PCB">59e5f0e</textvar>
     <textvar name="GIT_HASH_SCH">e7f6e1d</textvar>
     <textvar name="GIT_URL">https://github.com/ZSWatch/Heartrate-DevKit-HW</textvar>
     <textvar name="PROJECT_NAME">ZSWatch Heartrate-DevKit</textvar>
@@ -88,7 +88,7 @@ Changed
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">RELEASED</textvar>
+    <textvar name="VARIANT">CHECKED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Heartrate-DevKit-HW</title>
